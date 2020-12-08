@@ -1,0 +1,17 @@
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.csprojAssemblyReference.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.AssemblyInfoInputs.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.AssemblyInfo.cs
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.deps.json
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.runtimeconfig.json
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.runtimeconfig.dev.json
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.Tests.pdb
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\bin\Debug\netcoreapp2.2\Triangle.pdb
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.csproj.CopyComplete
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\triangle-tracker-c\Triangle.Solution\Triangle.Tests\obj\Debug\netcoreapp2.2\Triangle.Tests.pdb
